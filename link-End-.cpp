@@ -40,7 +40,6 @@ void printList(Node* node)
 }
 int main()
 {
-    cout<<"\n\n************Lab 5 linked list Implementation************\n\n"<<endl;
     //initialize the head as Null(empty list)
     Node* head = nullptr;
     //insert NOde in Beginning
